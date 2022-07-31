@@ -6,22 +6,14 @@ I'm **Fabrizio Vitale** and I like building with, deploying and talking about
 - Rust
 - NodeJS
 - Redux
-- Deno
-
----
 
 ## Side Projects
-
-Here's a list of fun side projects that I've built.
-
 
 ### Tools, libraries
 
 - [rtk-query-monitor](https://www.npmjs.com/package/@redux-devtools/rtk-query-monitor) - Devtools for [rtk-query](https://redux-toolkit.js.org/rtk-query/overview), part of [redux-devtools](https://github.com/reduxjs/redux-devtools) suite.
 - [storage-helpers](https://github.com/FaberVitale/storage-helpers) - Utility function to manage localStorage and sessionStorage.
 - [deno-ndjson](https://github.com/FaberVitale/deno-ndjson) - Read, write, parse and serialize [ndjson](http://ndjson.org/) in Deno.
-- [deno-minimist](https://github.com/FaberVitale/deno_minimist) - port of [minimist](https://www.npmjs.com/package/minimist) in Deno.
-- [fastify-service-template](https://github.com/FaberVitale/fastify-service-template) - [Fastify](https://www.fastify.io/) api service template.
 - [less-plugin-util](https://github.com/FaberVitale/less-plugin-util) - [Less](https://lesscss.org/) plugin that adds several utility functions.
 
 ### Apps
