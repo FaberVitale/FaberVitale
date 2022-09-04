@@ -17,7 +17,7 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 - [fastify-service-template](https://github.com/FaberVitale/fastify-service-template) - Template for a [Fastify](https://www.fastify.io/) + [typescript](https://www.typescriptlang.org/) api service.
 - [storage-helpers](https://github.com/FaberVitale/storage-helpers) - Utility functions to manage localStorage and sessionStorage.
 - [deno-ndjson](https://github.com/FaberVitale/deno-ndjson) - Read, write, parse and serialize [ndjson](http://ndjson.org/) in [Deno](https://deno.land/).
-- [deno_minimist](https://github.com/FaberVitale/deno_minimist) rewrite in typescript and [Deno](https://deno.land/) port of [minimist](https://www.npmjs.com/package/minimist) for Deno.
+- [deno_minimist](https://github.com/FaberVitale/deno_minimist) rewrite in typescript and [Deno](https://deno.land/) port of [minimist](https://www.npmjs.com/package/minimist).
 - [less-plugin-util](https://github.com/FaberVitale/less-plugin-util) - [Less](https://lesscss.org/) plugin that adds several utility functions.
 
 ### Apps
