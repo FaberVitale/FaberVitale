@@ -2,10 +2,11 @@ Hi 👋, thanks for stopping by, <br/>
 
 I'm **Fabrizio Vitale** and I like building with and talking about
 
-- Typescript
-- Rust
-- NodeJS
-- Redux
+- [Typescript](https://www.typescriptlang.org/)
+- [Rust](https://www.rust-lang.org/)
+- [NodeJS](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 
 ## Side Projects
 
