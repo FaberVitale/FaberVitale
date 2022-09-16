@@ -24,6 +24,7 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 
 - [barcode-generator](https://fabervitale.github.io/solid-bricks/examples/barcode-generator/) - A barcode generator. Built with [SolidJS](https://www.solidjs.com/) and [typescript](https://www.typescriptlang.org/).
 - [about-my-device](https://about-my-device.netlify.app/) - Displays useful information about the device. Built with [Svelte](https://svelte.dev/) and [typescript](https://www.typescriptlang.org/).
+- [clip-path-svelte](https://clip-path-svelte.netlify.app) - clip-path (crop) transitions powered by [Svelte](https://svelte.dev/).
 - [notes](https://fabervitale.github.io/notes/) - Notes dump and progressive web blog. Built with [Gatsby](https://www.gatsbyjs.com/) and [flow](https://flow.org/).
 - [wikiq](https://wikiq.netlify.app/) - A web app to search wikipedia articles. Built with [react](https://reactjs.org/), [redux](https://redux.js.org/) and [flow](https://flow.org/).
 - [swapi-view](https://fabervitale.github.io/swapi-view/#/) - A web app to look up star wars info. Built with [react](https://reactjs.org/), [redux](https://redux.js.org/) and [flow](https://flow.org/).
