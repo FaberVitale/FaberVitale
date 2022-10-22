@@ -29,3 +29,13 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 - [wikiq](https://wikiq.netlify.app/) - A web app to search wikipedia articles. Built with [react](https://reactjs.org/), [redux](https://redux.js.org/) and [flow](https://flow.org/).
 - [swapi-view](https://fabervitale.github.io/swapi-view/#/) - A web app to look up star wars info. Built with [react](https://reactjs.org/), [redux](https://redux.js.org/) and [flow](https://flow.org/).
 - [tictactoe](https://fabervitale.github.io/tictactoe/) - Overengineered ticTacToe app with undo/redo and 3 AI profiles and PVP.
+
+## Talks
+
+### The next wave of Javascript frameworks (2022-10-19) 
+
+- [slides](https://next-wave-fw-slides.netlify.app/1)
+
+### Data fetching in react 18 applications (2022-05-18)
+
+- [slides](https://data-fetching-in-react-18-apps.netlify.app/#0)
