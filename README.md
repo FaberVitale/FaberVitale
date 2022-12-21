@@ -22,6 +22,7 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 
 ### Apps
 
+- [romajs.org](https://romajs.org/) - [source](https://github.com/Roma-JS/roma-js-on-astro). Built with [Astro](https://astro.build/) and [SolidJS](https://www.solidjs.com/).
 - [barcode-generator](https://fabervitale.github.io/solid-bricks/examples/barcode-generator/) - A barcode generator. Built with [SolidJS](https://www.solidjs.com/) and [typescript](https://www.typescriptlang.org/).
 - [about-my-device](https://about-my-device.netlify.app/) - Displays useful information about the device. Built with [Svelte](https://svelte.dev/) and [typescript](https://www.typescriptlang.org/).
 - [clip-path-svelte](https://clip-path-svelte.netlify.app) - clip-path (crop) transitions powered by [Svelte](https://svelte.dev/).
