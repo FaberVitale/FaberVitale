@@ -33,6 +33,10 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 
 ## Talks
 
+### ffmpeg: an introduction (2023-05-17)
+
+- [slides](https://ffmpeg-talk-js.netlify.app/1)
+
 ### The next wave of Javascript frameworks (2022-10-19) 
 
 - [slides](https://next-wave-fw-slides.netlify.app/1)
