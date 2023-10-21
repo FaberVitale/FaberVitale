@@ -12,6 +12,7 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 
 ### Tools, libraries
 
+- [useShallow](https://docs.pmnd.rs/zustand/guides/prevent-rerenders-with-use-shallow) - a custom hook part of [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction).
 - [rtk-query-monitor](https://www.npmjs.com/package/@redux-devtools/rtk-query-monitor) - Devtools for [rtk-query](https://redux-toolkit.js.org/rtk-query/overview), part of [redux-devtools](https://github.com/reduxjs/redux-devtools) suite.
 - [wasm4 devtools](https://github.com/aduros/wasm4/tree/main/devtools/web) - Devtools for [wasm4](https://wasm4.org/), the fantasy console powered by Webassembly. Built with [Lit components](https://lit.dev/).
 - [fastify-service-template](https://github.com/FaberVitale/fastify-service-template) - Template for a [Fastify](https://www.fastify.io/) + [typescript](https://www.typescriptlang.org/) api service.
