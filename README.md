@@ -34,6 +34,10 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 
 ## Talks
 
+### Let's build JS Promise from scratch (2023-11-15)
+
+- [slides](https://build-js-promise.netlify.app/1)
+
 ### ffmpeg: an introduction (2023-05-17)
 
 - [slides](https://ffmpeg-talk-js.netlify.app/1)
