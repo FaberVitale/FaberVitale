@@ -34,6 +34,10 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 
 ## Talks
 
+### Rules of React (2024-10-16)
+
+- [slides](https://rules-of-react.netlify.app/1)
+
 ### Let's build JS Promise from scratch (2023-11-15)
 
 - [slides](https://build-js-promise.netlify.app/1)
