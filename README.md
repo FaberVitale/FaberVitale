@@ -34,7 +34,7 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 
 ## Talks
 
-### SSG optimization: how we cut the build times by 70% (2025-02-19)
+### SSG optimization: how we cut the build time by 70% (2025-02-19)
 - [slides](https://ssg-optimization.netlify.app/1)
 
 ### It's lit: building stuff with we components and lit (2024-11-14)
