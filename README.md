@@ -34,6 +34,12 @@ I'm **Fabrizio Vitale** and I like building with and talking about
 
 ## Talks
 
+### SSG optimization: how we cut the build times by 70% (2025-02-19)
+- [slides](https://ssg-optimization.netlify.app/1)
+
+### It's lit: building stuff with we components and lit (2024-11-14)
+- [slides](https://its-lit-talk.netlify.app/1)
+
 ### Rules of React (2024-10-16)
 
 - [slides](https://rules-of-react.netlify.app/1)
